@@ -1,2 +1,2 @@
 # python
-learning python and related tools/framework/ecosystem
+learning and experimenting with python and related tools/framework/ecosystem
